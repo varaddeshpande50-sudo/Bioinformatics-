@@ -1,0 +1,4 @@
+record,length,A,C,G,T,N,gc_percent,reverse_complement,rna
+synthetic_balanced,8,2,2,2,2,0,50.0,GTACGCAT,AUGCGUAC
+synthetic_gc_rich,8,2,3,3,0,0,75.0,TTGCGCGC,GCGCGCAA
+synthetic_ambiguous,6,1,1,1,1,2,50.0,NNGCAT,AUGCNN
